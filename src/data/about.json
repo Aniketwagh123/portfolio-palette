@@ -1,0 +1,13 @@
+{
+  "heading": "About",
+  "paragraphs": [
+    "I'm a Salesforce-focused developer who enjoys translating messy business problems into clean, maintainable systems. My work spans Apex, LWC, Flows and integrations — but the part I care about most is the craft.",
+    "Outside of client work I tinker with side projects, write the occasional post, and obsess over typography and quiet design."
+  ],
+  "doing": [
+    "Custom Salesforce development (Apex, LWC, SOQL)",
+    "Integrations & API design (REST, Platform Events)",
+    "Solution architecture & code reviews",
+    "Automation with Flow & declarative tools"
+  ]
+}

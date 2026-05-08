@@ -1,0 +1,25 @@
+[
+  {
+    "company": "Apexon",
+    "role": "Salesforce Developer",
+    "start": "2023",
+    "end": "Present",
+    "location": "Pune, India",
+    "bullets": [
+      "Delivered enterprise Salesforce features across Sales and Service Cloud.",
+      "Built reusable LWC components and Apex services consumed across teams.",
+      "Owned integrations with third-party systems via REST and Platform Events."
+    ]
+  },
+  {
+    "company": "Earlier Role",
+    "role": "Junior Developer",
+    "start": "2021",
+    "end": "2023",
+    "location": "Remote",
+    "bullets": [
+      "Shipped client-facing features on the Salesforce platform.",
+      "Wrote unit tests, code reviews, and contributed to internal tooling."
+    ]
+  }
+]

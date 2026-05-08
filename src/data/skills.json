@@ -1,0 +1,6 @@
+[
+  { "group": "Salesforce", "items": ["Apex", "LWC", "Aura", "SOQL/SOSL", "Flow", "Triggers", "Platform Events"] },
+  { "group": "Languages", "items": ["JavaScript", "TypeScript", "Java", "SQL", "HTML/CSS"] },
+  { "group": "Tools", "items": ["Git", "VS Code", "SFDX", "Postman", "Jira"] },
+  { "group": "Practices", "items": ["TDD", "Code Review", "Solution Design", "Agile"] }
+]
