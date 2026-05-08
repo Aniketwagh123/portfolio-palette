@@ -4,7 +4,7 @@ import profile from "@/data/profile.json";
 
 export function Hero() {
   return (
-    <section id="top" className="relative mx-auto max-w-6xl px-6 pt-24 pb-32 md:pt-36 md:pb-40">
+    <section id="hero" className="relative mx-auto max-w-6xl px-6 pt-12 pb-32 md:pt-36 md:pb-40">
       <motion.p
         initial={{ opacity: 0, y: 8 }}
         animate={{ opacity: 1, y: 0 }}

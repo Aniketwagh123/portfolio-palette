@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { ThemeProvider } from "@/components/portfolio/theme-provider";
-import { Nav } from "@/components/portfolio/nav";
+import { SidebarNav } from "@/components/portfolio/sidebar-nav";
 import { Hero } from "@/components/portfolio/hero";
 import { About } from "@/components/portfolio/about";
 import { Experience } from "@/components/portfolio/experience";
@@ -28,8 +28,8 @@ function Index() {
   return (
     <ThemeProvider>
       <div className="min-h-screen bg-background text-foreground">
-        <Nav />
-        <main>
+        <SidebarNav />
+        <main className="md:pt-16">
           <Hero />
           <About />
           <Experience />

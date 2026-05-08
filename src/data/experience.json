@@ -1,25 +1,39 @@
 [
   {
     "company": "Apexon",
-    "role": "Salesforce Developer",
-    "start": "2023",
+    "role": "AI Software Engineer",
+    "start": "Nov 2024",
     "end": "Present",
     "location": "Pune, India",
     "bullets": [
-      "Delivered enterprise Salesforce features across Sales and Service Cloud.",
-      "Built reusable LWC components and Apex services consumed across teams.",
-      "Owned integrations with third-party systems via REST and Platform Events."
+      "Built agentic applications enabling autonomous code upgrades and framework migrations across large repositories using structured filesystem access and advanced context pipelines.",
+      "Designed backend orchestration for multi-agent workflows including file scheduling, safe write-back strategies, and context engineering for reliable code analysis and regeneration at scale.",
+      "Co-developed AgentRise, a drag-and-drop agentic workflow builder with RBAC, enabling teams to execute workflows across Google ADK, LangGraph, and CrewAI runtimes without code changes.",
+      "Implemented production-grade features: observability, RBAC authentication, long-term memory, guardrails, and an internal LLM gateway for secure agent execution and traceability."
     ]
   },
   {
-    "company": "Earlier Role",
-    "role": "Junior Developer",
-    "start": "2021",
-    "end": "2023",
+    "company": "SignalATM",
+    "role": "Python Developer",
+    "start": "Feb 2024",
+    "end": "Jul 2024",
     "location": "Remote",
     "bullets": [
-      "Shipped client-facing features on the Salesforce platform.",
-      "Wrote unit tests, code reviews, and contributed to internal tooling."
+      "Developed backend systems and ML models for real-time trading signal generation in Forex and stock markets.",
+      "Built and optimized model pipelines for live stock analysis, enabling actionable trading signals for decision-making.",
+      "Integrated data pipelines and backend architecture ensuring accurate, low-latency market analysis at scale."
+    ]
+  },
+  {
+    "company": "iConsultify®",
+    "role": "Django Developer",
+    "start": "Apr 2023",
+    "end": "Oct 2023",
+    "location": "Remote",
+    "bullets": [
+      "Developed full-stack websites from architecture to production deployment using Django and PostgreSQL.",
+      "Engineered Google Maps scraper automation and integrated third-party APIs for business data aggregation.",
+      "Optimized backend performance and maintained strict delivery timelines across multiple concurrent projects."
     ]
   }
 ]

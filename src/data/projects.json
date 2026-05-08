@@ -1,38 +1,42 @@
 [
   {
-    "id": "lwc-design-system",
-    "title": "LWC Design System",
+    "id": "garudasdlc",
+    "title": "GarudaSDLC – Agentic Software Development Lifecycle Platform",
     "type": "Personal",
-    "summary": "A small library of accessible Lightning Web Components with a consistent visual language.",
-    "description": "An open-source LWC component kit focused on accessibility and theming. Includes buttons, modals, tables, and data-bound primitives. Documented with live examples and unit-tested.",
-    "tech": ["LWC", "SLDS", "Jest", "Apex"],
+    "summary": "AI-native SDLC platform where autonomous agents convert meeting transcripts into structured workflows, enabling fully automated software delivery.",
+    "description": "Architected an end-to-end agentic platform that transforms meeting transcripts into development workflows, issues, and tasks. Built a multi-agent orchestration system using LangGraph where project managers, reviewers, and expert agents autonomously write code, raise PRs, perform reviews, and iterate through CI/CD feedback loops. Designed transparent AI engineering integrating GitHub, Slack, and automated pipelines for human-in-the-loop governance and contextual issue memory.",
+    "tech": ["Python", "LangChain", "LangGraph", "GitHub APIs", "Slack"],
+    "image": "https://ibb.co/xqcRFMSj",
     "links": { "live": "", "repo": "" }
   },
   {
-    "id": "service-cloud-revamp",
-    "title": "Service Cloud Revamp",
+    "id": "agentraise",
+    "title": "AgentRise – Agentic Workflow Builder",
     "type": "Apexon",
-    "summary": "Re-architected a high-volume case management workflow, reducing handle time by 28%.",
-    "description": "Led the redesign of a client's Service Cloud implementation: modernized Flows, replaced legacy triggers with handler patterns, and rolled out an LWC console for agents.",
-    "tech": ["Apex", "Flow", "LWC", "Omni-Channel"],
+    "summary": "Drag-and-drop workflow builder enabling teams to define and execute AI agent workflows across multiple runtimes without code changes.",
+    "description": "Co-developed a low-code agentic workflow platform with reusable components and role-based access control (RBAC). Enables teams to define workflows once and execute them seamlessly across Google ADK, LangGraph, and CrewAI runtimes. Integrated observability, authentication, long-term memory, and guardrails for secure agent execution.",
+    "tech": ["LangGraph", "CrewAI", "Google ADK", "React.js", "FastAPI"],
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=300&fit=crop",
     "links": {}
   },
   {
-    "id": "integration-platform",
-    "title": "Integration Platform",
+    "id": "platformalpha",
+    "title": "PlatformAlpha – Agentic Code Transformation",
     "type": "Apexon",
-    "summary": "Event-driven integration layer between Salesforce and downstream systems.",
-    "description": "Designed a Platform Events + Named Credentials based pipeline with retry, dead-letter, and observability. Improved reliability and removed brittle point-to-point integrations.",
-    "tech": ["Platform Events", "Apex", "REST", "Mulesoft"],
+    "summary": "Enterprise platform enabling autonomous agents to perform large-scale code upgrades and framework migrations across repositories.",
+    "description": "Built agentic applications enabling autonomous code upgrades (e.g., Angular to React, Java version upgrades) and framework migrations. Agents leverage structured filesystem access and advanced context pipelines for parallel, low-touch refactors at repository scale. Designed backend orchestration for file scheduling, safe write-back strategies, and context engineering for reliable autonomous code analysis and regeneration.",
+    "tech": ["LangGraph", "FastAPI", "React", "Context Engineering"],
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=300&fit=crop",
     "links": {}
   },
   {
-    "id": "personal-site",
-    "title": "Portfolio v2",
+    "id": "google-keep-clone",
+    "title": "Google Keep Clone – Full-Stack Note Application",
     "type": "Personal",
-    "summary": "This site — a quiet, JSON-driven editorial space.",
-    "description": "A single-page portfolio built with React, TanStack Start, Tailwind and shadcn/ui. Everything is content-driven from JSON, with a dark/light editorial aesthetic.",
-    "tech": ["React", "Tailwind", "shadcn/ui", "Framer Motion"],
+    "summary": "Production-grade note-taking app demonstrating microservices architecture, caching, task scheduling, and cloud deployment.",
+    "description": "Built a scalable note management system with Django REST backend, React frontend, Redis caching, and async task processing. Integrated S3 for media storage, AWS ECS for container orchestration, NGINX for deployment, and RabbitMQ for message queuing. Implemented JWT authentication, Swagger API documentation, and Celery for scheduled reminders.",
+    "tech": ["Django REST", "React.js", "PostgreSQL", "Redis", "Docker", "AWS ECS", "RabbitMQ", "Celery"],
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=500&h=300&fit=crop",
     "links": {}
   }
 ]

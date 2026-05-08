@@ -1,14 +1,14 @@
 [
   {
-    "quote": "Aniket is one of the most thoughtful Salesforce engineers I've worked with — calm under pressure and rigorous in design.",
-    "author": "Jane Doe",
-    "role": "Engineering Manager",
-    "company": "Apexon"
+    "quote": "Aniket brings exceptional technical depth in AI systems and a thoughtful approach to building production-grade agentic applications. His work on multi-agent orchestration frameworks has directly accelerated our platform capabilities.",
+    "author": "Kuldeepsinh Kumpavat",
+    "role": "Manager",
+    "company": "Apexon AI Labs"
   },
   {
-    "quote": "Rare combination of strong technical skills and genuine product empathy. He raises the bar for everyone around him.",
-    "author": "John Smith",
-    "role": "Solutions Architect",
-    "company": "Client Co."
+    "quote": "Rare combination of deep AI/ML expertise and pragmatic engineering mindset. He has a gift for translating complex agentic concepts into maintainable, scalable systems that teams can actually ship.",
+    "author": "Engineering Team",
+    "role": "Colleagues",
+    "company": "Apexon"
   }
 ]

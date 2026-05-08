@@ -1,10 +1,11 @@
 {
   "name": "Aniket S. Wagh",
-  "role": "Salesforce Developer & Solutions Engineer",
-  "tagline": "Building thoughtful Salesforce experiences — from clouds to code.",
-  "bio": "I design and engineer Salesforce solutions that scale — bridging declarative power with custom code to ship products people actually enjoy using.",
+  "role": "Full-Stack AI Engineer @ Apexon AI Labs",
+  "tagline": "Building autonomous agent systems and production-grade AI applications.",
+  "bio": "AI Software Engineer specializing in agentic systems, multi-agent orchestration, and scalable backend architectures. Experienced in LangGraph, RAG pipelines, MCP integrations, and deploying intelligent systems on AWS. Focused on moving beyond traditional AI assistants toward autonomous, reasoning-capable systems that drive enterprise workflows.",
   "location": "Pune, India",
-  "email": "aniket.wagh@example.com",
+  "email": "contact.aniketwagh@gmail.com",
+  "phone": "+91-9322365844",
   "socials": {
     "linkedin": "https://www.linkedin.com/in/aniket-s-wagh/",
     "github": "https://github.com/",

@@ -1,6 +1,8 @@
 [
-  { "group": "Salesforce", "items": ["Apex", "LWC", "Aura", "SOQL/SOSL", "Flow", "Triggers", "Platform Events"] },
-  { "group": "Languages", "items": ["JavaScript", "TypeScript", "Java", "SQL", "HTML/CSS"] },
-  { "group": "Tools", "items": ["Git", "VS Code", "SFDX", "Postman", "Jira"] },
-  { "group": "Practices", "items": ["TDD", "Code Review", "Solution Design", "Agile"] }
+  { "group": "AI & ML", "items": ["LangGraph", "LangChain", "CrewAI", "Google ADK", "RAG", "MCP (Model Context Protocol)", "Prompt Engineering", "Vector Databases"] },
+  { "group": "Languages", "items": ["Python", "JavaScript/TypeScript", "SQL"] },
+  { "group": "Backend & Cloud", "items": ["FastAPI", "Django", "REST APIs", "AWS (Lambda, ECS, S3, API Gateway)", "Docker", "Kubernetes", "Microservices"] },
+  { "group": "Frontend", "items": ["React.js", "React Router", "Material UI", "Tailwind CSS"] },
+  { "group": "DevOps & Tools", "items": ["Git", "CI/CD", "Linux", "Docker", "AWS Services", "System Design"] },
+  { "group": "Practices", "items": ["Agile Development", "RBAC", "Observability", "Event-Driven Architecture"] }
 ]

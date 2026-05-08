@@ -145,6 +145,7 @@ const CarouselContent = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HT
             orientation === "horizontal" ? "-ml-4" : "-mt-4 flex-col",
             className,
           )}
+          style={{ scrollBehavior: "smooth" }}
           {...props}
         />
       </div>

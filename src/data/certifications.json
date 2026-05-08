@@ -1,5 +1,4 @@
 [
-  { "name": "Salesforce Certified Platform Developer I", "issuer": "Salesforce", "date": "2023", "url": "" },
-  { "name": "Salesforce Certified Administrator", "issuer": "Salesforce", "date": "2022", "url": "" },
-  { "name": "Salesforce Certified Associate", "issuer": "Salesforce", "date": "2022", "url": "" }
+  { "name": "AWS Certified Developer – Associate (DVA-C02)", "issuer": "Amazon Web Services", "date": "Mar 2026", "score": "888/1000", "image": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?w=400&h=300&fit=crop", "url": "" },
+  { "name": "S.O.L.I.D Principles Every Developer Must Know", "issuer": "Scaler", "date": "2024", "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop", "url": "" }
 ]

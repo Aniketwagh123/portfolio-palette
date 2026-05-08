@@ -1,5 +1,5 @@
 [
-  { "title": "Trailhead Ranger", "description": "Earned Ranger rank on Salesforce Trailhead.", "date": "2023" },
-  { "title": "Internal Hackathon Winner", "description": "Built an LWC-based internal productivity tool that shipped to production.", "date": "2024" },
-  { "title": "Mentor of the Quarter", "description": "Recognized for onboarding and mentoring new engineers.", "date": "2024" }
+  { "title": "Budding Star Award – Q4", "description": "Recognized by Apexon for exceptional performance, rapid AI/ML adoption, and strong contributions to engineering initiatives.", "date": "Jun 2025", "image": "https://images.unsplash.com/photo-1507842072343-583f20270319?w=400&h=300&fit=crop" },
+  { "title": "AI Fiesta – Certificate of Appreciation", "description": "Honored for driving AI adoption within teams and promoting an AI-first engineering mindset across the organization.", "date": "Dec 2025", "image": "https://images.unsplash.com/photo-1575505586569-646b2ca898fc?w=400&h=300&fit=crop" },
+  { "title": "AWS Certified Developer – Associate with 888/1000", "description": "Mastered serverless architectures, event-driven systems, and AWS developer services for production-grade deployments.", "date": "Mar 2026", "image": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?w=400&h=300&fit=crop" }
 ]
