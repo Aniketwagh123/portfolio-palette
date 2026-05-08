@@ -1,0 +1,13 @@
+{
+  "name": "Aniket S. Wagh",
+  "role": "Salesforce Developer & Solutions Engineer",
+  "tagline": "Building thoughtful Salesforce experiences — from clouds to code.",
+  "bio": "I design and engineer Salesforce solutions that scale — bridging declarative power with custom code to ship products people actually enjoy using.",
+  "location": "Pune, India",
+  "email": "aniket.wagh@example.com",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/aniket-s-wagh/",
+    "github": "https://github.com/",
+    "twitter": ""
+  }
+}

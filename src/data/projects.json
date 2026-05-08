@@ -1,0 +1,38 @@
+[
+  {
+    "id": "lwc-design-system",
+    "title": "LWC Design System",
+    "type": "Personal",
+    "summary": "A small library of accessible Lightning Web Components with a consistent visual language.",
+    "description": "An open-source LWC component kit focused on accessibility and theming. Includes buttons, modals, tables, and data-bound primitives. Documented with live examples and unit-tested.",
+    "tech": ["LWC", "SLDS", "Jest", "Apex"],
+    "links": { "live": "", "repo": "" }
+  },
+  {
+    "id": "service-cloud-revamp",
+    "title": "Service Cloud Revamp",
+    "type": "Apexon",
+    "summary": "Re-architected a high-volume case management workflow, reducing handle time by 28%.",
+    "description": "Led the redesign of a client's Service Cloud implementation: modernized Flows, replaced legacy triggers with handler patterns, and rolled out an LWC console for agents.",
+    "tech": ["Apex", "Flow", "LWC", "Omni-Channel"],
+    "links": {}
+  },
+  {
+    "id": "integration-platform",
+    "title": "Integration Platform",
+    "type": "Apexon",
+    "summary": "Event-driven integration layer between Salesforce and downstream systems.",
+    "description": "Designed a Platform Events + Named Credentials based pipeline with retry, dead-letter, and observability. Improved reliability and removed brittle point-to-point integrations.",
+    "tech": ["Platform Events", "Apex", "REST", "Mulesoft"],
+    "links": {}
+  },
+  {
+    "id": "personal-site",
+    "title": "Portfolio v2",
+    "type": "Personal",
+    "summary": "This site — a quiet, JSON-driven editorial space.",
+    "description": "A single-page portfolio built with React, TanStack Start, Tailwind and shadcn/ui. Everything is content-driven from JSON, with a dark/light editorial aesthetic.",
+    "tech": ["React", "Tailwind", "shadcn/ui", "Framer Motion"],
+    "links": {}
+  }
+]
