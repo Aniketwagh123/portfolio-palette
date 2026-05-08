@@ -26,7 +26,7 @@
     "summary": "Enterprise platform enabling autonomous agents to perform large-scale code upgrades and framework migrations across repositories.",
     "description": "Built agentic applications enabling autonomous code upgrades (e.g., Angular to React, Java version upgrades) and framework migrations. Agents leverage structured filesystem access and advanced context pipelines for parallel, low-touch refactors at repository scale. Designed backend orchestration for file scheduling, safe write-back strategies, and context engineering for reliable autonomous code analysis and regeneration.",
     "tech": ["LangGraph", "FastAPI", "React", "Context Engineering"],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=300&fit=crop",
+    "image": "https://github.com/Aniketwagh123/portfolio-palette/blob/main/media/PlatformAlpha.png?raw=true",
     "links": {}
   },
   {
