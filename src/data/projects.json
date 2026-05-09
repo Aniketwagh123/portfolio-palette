@@ -28,15 +28,5 @@
     "tech": ["LangGraph", "FastAPI", "React", "Context Engineering"],
     "image": "https://github.com/Aniketwagh123/portfolio-palette/blob/main/media/PlatformAlpha.png?raw=true",
     "links": {}
-  },
-  {
-    "id": "google-keep-clone",
-    "title": "Google Keep Clone – Full-Stack Note Application",
-    "type": "Personal",
-    "summary": "Production-grade note-taking app demonstrating microservices architecture, caching, task scheduling, and cloud deployment.",
-    "description": "Built a scalable note management system with Django REST backend, React frontend, Redis caching, and async task processing. Integrated S3 for media storage, AWS ECS for container orchestration, NGINX for deployment, and RabbitMQ for message queuing. Implemented JWT authentication, Swagger API documentation, and Celery for scheduled reminders.",
-    "tech": ["Django REST", "React.js", "PostgreSQL", "Redis", "Docker", "AWS ECS", "RabbitMQ", "Celery"],
-    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=500&h=300&fit=crop",
-    "links": {}
   }
 ]
